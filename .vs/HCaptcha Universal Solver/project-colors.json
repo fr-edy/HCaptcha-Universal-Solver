@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7601ef76-4e95-4342-9736-f18934702b5c": {
+      "ProjectGuid": "7601ef76-4e95-4342-9736-f18934702b5c",
+      "DisplayName": "HCaptcha Universal Solver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
