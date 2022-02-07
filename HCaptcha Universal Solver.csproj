@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HCaptcha\HCaptchaAccessibilitySolver.cs" />
+    <Compile Include="HCaptcha\HCaptchaSolver.cs" />
     <Compile Include="HCaptcha\HCaptchaMovementsIntensity.cs" />
     <Compile Include="HCaptcha\HCaptchaProxy.cs" />
     <Compile Include="HCaptcha\HCaptchaProxyType.cs" />
